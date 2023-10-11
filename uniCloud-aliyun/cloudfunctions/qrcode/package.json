@@ -1,0 +1,9 @@
+{
+  "name": "public",
+  "extensions": {
+    "uni-cloud-jql": {}
+  },
+  "dependencies": {
+    "wx-common": "file:../common/wx-common"
+  }
+}
