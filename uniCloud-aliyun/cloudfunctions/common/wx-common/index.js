@@ -1,6 +1,6 @@
 const jwt = require("jsonwebtoken"); //webjsontoken
-const appId = 'wx5d5e9ccbf68b39d0'
-const appSecret = 'a51721548fdc7c09b064baf06135ed14'
+const appId = ''
+const appSecret = ''
 const db = uniCloud.database()
 //生成token
 function getToken(userInfo) {
